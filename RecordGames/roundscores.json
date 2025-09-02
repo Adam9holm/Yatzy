@@ -1,0 +1,1710 @@
+[
+  {
+    "Category1": "Chance",
+    "Category2": "Chance",
+    "RoundNumber": 1,
+    "Player1Points": 19,
+    "Player2Points": 76
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "6s",
+    "RoundNumber": 2,
+    "Player1Points": 11,
+    "Player2Points": 12
+  },
+  {
+    "Category1": "3s",
+    "Category2": "Pair",
+    "RoundNumber": 3,
+    "Player1Points": 6,
+    "Player2Points": 12
+  },
+  {
+    "Category1": "Four of a kind",
+    "Category2": "4s",
+    "RoundNumber": 4,
+    "Player1Points": 8,
+    "Player2Points": 8
+  },
+  {
+    "Category1": "//Three of a kind",
+    "Category2": "3s",
+    "RoundNumber": 5,
+    "Player1Points": 60,
+    "Player2Points": 18
+  },
+  {
+    "Category1": "2s",
+    "Category2": "//Three of a kind",
+    "RoundNumber": 6,
+    "Player1Points": 6,
+    "Player2Points": 15
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "Full house",
+    "RoundNumber": 7,
+    "Player1Points": 6,
+    "Player2Points": 11
+  },
+  {
+    "Category1": "6s",
+    "Category2": "5s",
+    "RoundNumber": 8,
+    "Player1Points": 216,
+    "Player2Points": 5
+  },
+  {
+    "Category1": "1s",
+    "Category2": "2s",
+    "RoundNumber": 9,
+    "Player1Points": 2,
+    "Player2Points": 4
+  },
+  {
+    "Category1": "5s",
+    "Category2": "1s",
+    "RoundNumber": 10,
+    "Player1Points": 5,
+    "Player2Points": 1
+  },
+  {
+    "Category1": "4s",
+    "Category2": "Yatzy",
+    "RoundNumber": 11,
+    "Player1Points": 8,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Small straight",
+    "Category2": "Small straight",
+    "RoundNumber": 12,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "Four of a kind",
+    "RoundNumber": 13,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "Large straight",
+    "RoundNumber": 14,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "Two pairs",
+    "RoundNumber": 15,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "Four of a kind",
+    "RoundNumber": 1,
+    "Player1Points": 11,
+    "Player2Points": 128
+  },
+  {
+    "Category1": "5s",
+    "Category2": "//Three of a kind",
+    "RoundNumber": 2,
+    "Player1Points": 100,
+    "Player2Points": 15
+  },
+  {
+    "Category1": "//Three of a kind",
+    "Category2": "Full house",
+    "RoundNumber": 3,
+    "Player1Points": 15,
+    "Player2Points": 15
+  },
+  {
+    "Category1": "6s",
+    "Category2": "Chance",
+    "RoundNumber": 4,
+    "Player1Points": 12,
+    "Player2Points": 22
+  },
+  {
+    "Category1": "Small straight",
+    "Category2": "6s",
+    "RoundNumber": 5,
+    "Player1Points": 15,
+    "Player2Points": 60
+  },
+  {
+    "Category1": "3s",
+    "Category2": "Pair",
+    "RoundNumber": 6,
+    "Player1Points": 3,
+    "Player2Points": 12
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "2s",
+    "RoundNumber": 7,
+    "Player1Points": 10,
+    "Player2Points": 6
+  },
+  {
+    "Category1": "2s",
+    "Category2": "1s",
+    "RoundNumber": 8,
+    "Player1Points": 4,
+    "Player2Points": 2
+  },
+  {
+    "Category1": "Four of a kind",
+    "Category2": "5s",
+    "RoundNumber": 9,
+    "Player1Points": 20,
+    "Player2Points": 10
+  },
+  {
+    "Category1": "4s",
+    "Category2": "Yatzy",
+    "RoundNumber": 10,
+    "Player1Points": 4,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "1s",
+    "Category2": "Small straight",
+    "RoundNumber": 11,
+    "Player1Points": 18,
+    "Player2Points": 15
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "4s",
+    "RoundNumber": 12,
+    "Player1Points": 0,
+    "Player2Points": 12
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "3s",
+    "RoundNumber": 13,
+    "Player1Points": 14,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "Large straight",
+    "RoundNumber": 14,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "Two pairs",
+    "RoundNumber": 15,
+    "Player1Points": 0,
+    "Player2Points": 14
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "//Three of a kind",
+    "RoundNumber": 1,
+    "Player1Points": 23,
+    "Player2Points": 6
+  },
+  {
+    "Category1": "3s",
+    "Category2": "Chance",
+    "RoundNumber": 2,
+    "Player1Points": 6,
+    "Player2Points": 45
+  },
+  {
+    "Category1": "4s",
+    "Category2": "Full house",
+    "RoundNumber": 3,
+    "Player1Points": 8,
+    "Player2Points": 11
+  },
+  {
+    "Category1": "5s",
+    "Category2": "5s",
+    "RoundNumber": 4,
+    "Player1Points": 50,
+    "Player2Points": 5
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "4s",
+    "RoundNumber": 5,
+    "Player1Points": 15,
+    "Player2Points": 8
+  },
+  {
+    "Category1": "//Three of a kind",
+    "Category2": "3s",
+    "RoundNumber": 6,
+    "Player1Points": 12,
+    "Player2Points": 9
+  },
+  {
+    "Category1": "6s",
+    "Category2": "1s",
+    "RoundNumber": 7,
+    "Player1Points": 12,
+    "Player2Points": 3
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "6s",
+    "RoundNumber": 8,
+    "Player1Points": 8,
+    "Player2Points": 54
+  },
+  {
+    "Category1": "1s",
+    "Category2": "Pair",
+    "RoundNumber": 9,
+    "Player1Points": 2,
+    "Player2Points": 10
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "2s",
+    "RoundNumber": 10,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Four of a kind",
+    "Category2": "Two pairs",
+    "RoundNumber": 11,
+    "Player1Points": 0,
+    "Player2Points": 16
+  },
+  {
+    "Category1": "Small straight",
+    "Category2": "Small straight",
+    "RoundNumber": 12,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "2s",
+    "Category2": "Yatzy",
+    "RoundNumber": 13,
+    "Player1Points": 4,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "Four of a kind",
+    "RoundNumber": 14,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "Large straight",
+    "RoundNumber": 15,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "//Three of a kind",
+    "RoundNumber": 1,
+    "Player1Points": 88,
+    "Player2Points": 81
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "Full house",
+    "RoundNumber": 2,
+    "Player1Points": 23,
+    "Player2Points": 20
+  },
+  {
+    "Category1": "//Three of a kind",
+    "Category2": "Small straight",
+    "RoundNumber": 3,
+    "Player1Points": 6,
+    "Player2Points": 15
+  },
+  {
+    "Category1": "4s",
+    "Category2": "Chance",
+    "RoundNumber": 4,
+    "Player1Points": 12,
+    "Player2Points": 11
+  },
+  {
+    "Category1": "2s",
+    "Category2": "6s",
+    "RoundNumber": 5,
+    "Player1Points": 6,
+    "Player2Points": 54
+  },
+  {
+    "Category1": "5s",
+    "Category2": "Pair",
+    "RoundNumber": 6,
+    "Player1Points": 50,
+    "Player2Points": 12
+  },
+  {
+    "Category1": "6s",
+    "Category2": "5s",
+    "RoundNumber": 7,
+    "Player1Points": 12,
+    "Player2Points": 15
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "3s",
+    "RoundNumber": 8,
+    "Player1Points": 12,
+    "Player2Points": 3
+  },
+  {
+    "Category1": "3s",
+    "Category2": "2s",
+    "RoundNumber": 9,
+    "Player1Points": 3,
+    "Player2Points": 2
+  },
+  {
+    "Category1": "Four of a kind",
+    "Category2": "4s",
+    "RoundNumber": 10,
+    "Player1Points": 0,
+    "Player2Points": 8
+  },
+  {
+    "Category1": "1s",
+    "Category2": "Yatzy",
+    "RoundNumber": 11,
+    "Player1Points": 2,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Small straight",
+    "Category2": "1s",
+    "RoundNumber": 12,
+    "Player1Points": 15,
+    "Player2Points": 16
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "Two pairs",
+    "RoundNumber": 13,
+    "Player1Points": 0,
+    "Player2Points": 18
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "Large straight",
+    "RoundNumber": 14,
+    "Player1Points": 10,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "Four of a kind",
+    "RoundNumber": 15,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "Four of a kind",
+    "RoundNumber": 1,
+    "Player1Points": 17,
+    "Player2Points": 16
+  },
+  {
+    "Category1": "3s",
+    "Category2": "Chance",
+    "RoundNumber": 2,
+    "Player1Points": 6,
+    "Player2Points": 13
+  },
+  {
+    "Category1": "5s",
+    "Category2": "//Three of a kind",
+    "RoundNumber": 3,
+    "Player1Points": 10,
+    "Player2Points": 9
+  },
+  {
+    "Category1": "4s",
+    "Category2": "6s",
+    "RoundNumber": 4,
+    "Player1Points": 8,
+    "Player2Points": 6
+  },
+  {
+    "Category1": "6s",
+    "Category2": "5s",
+    "RoundNumber": 5,
+    "Player1Points": 12,
+    "Player2Points": 80
+  },
+  {
+    "Category1": "//Three of a kind",
+    "Category2": "Full house",
+    "RoundNumber": 6,
+    "Player1Points": 45,
+    "Player2Points": 18
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "2s",
+    "RoundNumber": 7,
+    "Player1Points": 12,
+    "Player2Points": 4
+  },
+  {
+    "Category1": "1s",
+    "Category2": "4s",
+    "RoundNumber": 8,
+    "Player1Points": 1,
+    "Player2Points": 4
+  },
+  {
+    "Category1": "Four of a kind",
+    "Category2": "Pair",
+    "RoundNumber": 9,
+    "Player1Points": 96,
+    "Player2Points": 12
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "3s",
+    "RoundNumber": 10,
+    "Player1Points": 12,
+    "Player2Points": 3
+  },
+  {
+    "Category1": "2s",
+    "Category2": "1s",
+    "RoundNumber": 11,
+    "Player1Points": 2,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Small straight",
+    "Category2": "Two pairs",
+    "RoundNumber": 12,
+    "Player1Points": 0,
+    "Player2Points": 6
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "Small straight",
+    "RoundNumber": 13,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "Yatzy",
+    "RoundNumber": 14,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "Large straight",
+    "RoundNumber": 15,
+    "Player1Points": 66,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "//Three of a kind",
+    "RoundNumber": 1,
+    "Player1Points": 18,
+    "Player2Points": 18
+  },
+  {
+    "Category1": "//Three of a kind",
+    "Category2": "Full house",
+    "RoundNumber": 2,
+    "Player1Points": 18,
+    "Player2Points": 15
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "Chance",
+    "RoundNumber": 3,
+    "Player1Points": 20,
+    "Player2Points": 16
+  },
+  {
+    "Category1": "2s",
+    "Category2": "5s",
+    "RoundNumber": 4,
+    "Player1Points": 4,
+    "Player2Points": 15
+  },
+  {
+    "Category1": "5s",
+    "Category2": "6s",
+    "RoundNumber": 5,
+    "Player1Points": 15,
+    "Player2Points": 12
+  },
+  {
+    "Category1": "3s",
+    "Category2": "2s",
+    "RoundNumber": 6,
+    "Player1Points": 6,
+    "Player2Points": 4
+  },
+  {
+    "Category1": "6s",
+    "Category2": "Pair",
+    "RoundNumber": 7,
+    "Player1Points": 12,
+    "Player2Points": 12
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "1s",
+    "RoundNumber": 8,
+    "Player1Points": 12,
+    "Player2Points": 2
+  },
+  {
+    "Category1": "Four of a kind",
+    "Category2": "Four of a kind",
+    "RoundNumber": 9,
+    "Player1Points": 0,
+    "Player2Points": 16
+  },
+  {
+    "Category1": "1s",
+    "Category2": "4s",
+    "RoundNumber": 10,
+    "Player1Points": 1,
+    "Player2Points": 8
+  },
+  {
+    "Category1": "4s",
+    "Category2": "3s",
+    "RoundNumber": 11,
+    "Player1Points": 0,
+    "Player2Points": 3
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "Large straight",
+    "RoundNumber": 12,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "Yatzy",
+    "RoundNumber": 13,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "Small straight",
+    "RoundNumber": 14,
+    "Player1Points": 8,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Small straight",
+    "Category2": "Two pairs",
+    "RoundNumber": 15,
+    "Player1Points": 0,
+    "Player2Points": 8
+  },
+  {
+    "Category1": "Three of a kind",
+    "Category2": "Chance",
+    "RoundNumber": 1,
+    "Player1Points": 0,
+    "Player2Points": 16
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "6s",
+    "RoundNumber": 2,
+    "Player1Points": 0,
+    "Player2Points": 12
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "Three of a kind",
+    "RoundNumber": 3,
+    "Player1Points": 162,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "4s",
+    "RoundNumber": 4,
+    "Player1Points": 0,
+    "Player2Points": 12
+  },
+  {
+    "Category1": "6s",
+    "Category2": "3s",
+    "RoundNumber": 5,
+    "Player1Points": 6,
+    "Player2Points": 6
+  },
+  {
+    "Category1": "4s",
+    "Category2": "Pair",
+    "RoundNumber": 6,
+    "Player1Points": 8,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Four of a kind",
+    "Category2": "2s",
+    "RoundNumber": 7,
+    "Player1Points": 0,
+    "Player2Points": 2
+  },
+  {
+    "Category1": "5s",
+    "Category2": "Two pairs",
+    "RoundNumber": 8,
+    "Player1Points": 10,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "5s",
+    "RoundNumber": 9,
+    "Player1Points": 0,
+    "Player2Points": 80
+  },
+  {
+    "Category1": "1s",
+    "Category2": "Small straight",
+    "RoundNumber": 10,
+    "Player1Points": 4,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "2s",
+    "Category2": "1s",
+    "RoundNumber": 11,
+    "Player1Points": 4,
+    "Player2Points": 2
+  },
+  {
+    "Category1": "3s",
+    "Category2": "Four of a kind",
+    "RoundNumber": 12,
+    "Player1Points": 9,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "Large straight",
+    "RoundNumber": 13,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Small straight",
+    "Category2": "Yatzy",
+    "RoundNumber": 14,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "Full house",
+    "RoundNumber": 15,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "3s",
+    "Category2": "Full house",
+    "RoundNumber": 1,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "Four of a kind",
+    "RoundNumber": 1,
+    "Player1Points": 162,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "6s",
+    "Category2": "Three of a kind",
+    "RoundNumber": 2,
+    "Player1Points": 6,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Three of a kind",
+    "Category2": "Chance",
+    "RoundNumber": 3,
+    "Player1Points": 0,
+    "Player2Points": 200
+  },
+  {
+    "Category1": "4s",
+    "Category2": "Large straight",
+    "RoundNumber": 4,
+    "Player1Points": 8,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "4s",
+    "RoundNumber": 5,
+    "Player1Points": 0,
+    "Player2Points": 12
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "Pair",
+    "RoundNumber": 6,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "5s",
+    "Category2": "5s",
+    "RoundNumber": 7,
+    "Player1Points": 5,
+    "Player2Points": 10
+  },
+  {
+    "Category1": "1s",
+    "Category2": "3s",
+    "RoundNumber": 8,
+    "Player1Points": 1,
+    "Player2Points": 9
+  },
+  {
+    "Category1": "Four of a kind",
+    "Category2": "6s",
+    "RoundNumber": 9,
+    "Player1Points": 0,
+    "Player2Points": 180
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "2s",
+    "RoundNumber": 10,
+    "Player1Points": 0,
+    "Player2Points": 2
+  },
+  {
+    "Category1": "3s",
+    "Category2": "Full house",
+    "RoundNumber": 11,
+    "Player1Points": 3,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "Small straight",
+    "RoundNumber": 12,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Small straight",
+    "Category2": "1s",
+    "RoundNumber": 13,
+    "Player1Points": 0,
+    "Player2Points": 1
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "Yatzy",
+    "RoundNumber": 14,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "2s",
+    "Category2": "Two pairs",
+    "RoundNumber": 15,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Yatzy Fun",
+    "Category2": "Yatzy Fun",
+    "RoundNumber": 1,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "All Odd",
+    "Category2": "High Five",
+    "RoundNumber": 2,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Low Four",
+    "Category2": "Low Four",
+    "RoundNumber": 3,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Lucky Seven",
+    "Category2": "Lucky Seven",
+    "RoundNumber": 4,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Triple Trouble",
+    "Category2": "Triple Trouble",
+    "RoundNumber": 5,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Pair Plus",
+    "Category2": "Sum of Primes",
+    "RoundNumber": 6,
+    "Player1Points": 0,
+    "Player2Points": 10
+  },
+  {
+    "Category1": "High Five",
+    "Category2": "Pair Plus",
+    "RoundNumber": 7,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "Three of a kind",
+    "RoundNumber": 1,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Small straight",
+    "Category2": "Chance",
+    "RoundNumber": 2,
+    "Player1Points": 0,
+    "Player2Points": 16
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "Pair",
+    "RoundNumber": 3,
+    "Player1Points": 18,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "3s",
+    "Category2": "Full house",
+    "RoundNumber": 4,
+    "Player1Points": 6,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "4s",
+    "Category2": "6s",
+    "RoundNumber": 5,
+    "Player1Points": 8,
+    "Player2Points": 60
+  },
+  {
+    "Category1": "Three of a kind",
+    "Category2": "Large straight",
+    "RoundNumber": 6,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "6s",
+    "Category2": "5s",
+    "RoundNumber": 7,
+    "Player1Points": 6,
+    "Player2Points": 10
+  },
+  {
+    "Category1": "5s",
+    "Category2": "3s",
+    "RoundNumber": 8,
+    "Player1Points": 5,
+    "Player2Points": 6
+  },
+  {
+    "Category1": "2s",
+    "Category2": "1s",
+    "RoundNumber": 9,
+    "Player1Points": 2,
+    "Player2Points": 2
+  },
+  {
+    "Category1": "1s",
+    "Category2": "2s",
+    "RoundNumber": 10,
+    "Player1Points": 1,
+    "Player2Points": 4
+  },
+  {
+    "Category1": "Four of a kind",
+    "Category2": "4s",
+    "RoundNumber": 11,
+    "Player1Points": 0,
+    "Player2Points": 8
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "Yatzy",
+    "RoundNumber": 12,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "Four of a kind",
+    "RoundNumber": 13,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "Small straight",
+    "RoundNumber": 14,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "Two pairs",
+    "RoundNumber": 15,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "6s",
+    "RoundNumber": 1,
+    "Player1Points": 126,
+    "Player2Points": 6
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "Pair",
+    "RoundNumber": 2,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "5s",
+    "Category2": "4s",
+    "RoundNumber": 3,
+    "Player1Points": 10,
+    "Player2Points": 8
+  },
+  {
+    "Category1": "3s",
+    "Category2": "2s",
+    "RoundNumber": 4,
+    "Player1Points": 3,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "1s",
+    "Category2": "Three of a kind",
+    "RoundNumber": 5,
+    "Player1Points": 4,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "Full house",
+    "RoundNumber": 6,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "Four of a kind",
+    "RoundNumber": 7,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "Three of a kind",
+    "RoundNumber": 1,
+    "Player1Points": 18,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "Full house",
+    "RoundNumber": 2,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "5s",
+    "Category2": "6s",
+    "RoundNumber": 3,
+    "Player1Points": 15,
+    "Player2Points": 6
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "4s",
+    "RoundNumber": 4,
+    "Player1Points": 0,
+    "Player2Points": 8
+  },
+  {
+    "Category1": "2s",
+    "Category2": "3s",
+    "RoundNumber": 5,
+    "Player1Points": 2,
+    "Player2Points": 6
+  },
+  {
+    "Category1": "1s",
+    "Category2": "Small straight",
+    "RoundNumber": 6,
+    "Player1Points": 2,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "Two pairs",
+    "RoundNumber": 7,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "Pair",
+    "RoundNumber": 1,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "Chance",
+    "RoundNumber": 2,
+    "Player1Points": 0,
+    "Player2Points": 15
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "Four of a kind",
+    "RoundNumber": 3,
+    "Player1Points": 21,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "4s",
+    "Category2": "Three of a kind",
+    "RoundNumber": 4,
+    "Player1Points": 80,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Three of a kind",
+    "Category2": "6s",
+    "RoundNumber": 5,
+    "Player1Points": 0,
+    "Player2Points": 24
+  },
+  {
+    "Category1": "Four of a kind",
+    "Category2": "5s",
+    "RoundNumber": 6,
+    "Player1Points": 0,
+    "Player2Points": 5
+  },
+  {
+    "Category1": "6s",
+    "Category2": "3s",
+    "RoundNumber": 7,
+    "Player1Points": 12,
+    "Player2Points": 60
+  },
+  {
+    "Category1": "3s",
+    "Category2": "2s",
+    "RoundNumber": 8,
+    "Player1Points": 3,
+    "Player2Points": 4
+  },
+  {
+    "Category1": "5s",
+    "Category2": "4s",
+    "RoundNumber": 9,
+    "Player1Points": 10,
+    "Player2Points": 4
+  },
+  {
+    "Category1": "1s",
+    "Category2": "Small straight",
+    "RoundNumber": 10,
+    "Player1Points": 2,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "1s",
+    "RoundNumber": 11,
+    "Player1Points": 0,
+    "Player2Points": 2
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "Large straight",
+    "RoundNumber": 12,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Small straight",
+    "Category2": "Yatzy",
+    "RoundNumber": 13,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "2s",
+    "Category2": "Full house",
+    "RoundNumber": 14,
+    "Player1Points": 4,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "Two pairs",
+    "RoundNumber": 15,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Three of a kind",
+    "Category2": "Pair",
+    "RoundNumber": 1,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "Chance",
+    "RoundNumber": 2,
+    "Player1Points": 0,
+    "Player2Points": 18
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "5s",
+    "RoundNumber": 3,
+    "Player1Points": 13,
+    "Player2Points": 10
+  },
+  {
+    "Category1": "5s",
+    "Category2": "6s",
+    "RoundNumber": 4,
+    "Player1Points": 70,
+    "Player2Points": 12
+  },
+  {
+    "Category1": "6s",
+    "Category2": "4s",
+    "RoundNumber": 5,
+    "Player1Points": 6,
+    "Player2Points": 72
+  },
+  {
+    "Category1": "2s",
+    "Category2": "3s",
+    "RoundNumber": 6,
+    "Player1Points": 2,
+    "Player2Points": 6
+  },
+  {
+    "Category1": "4s",
+    "Category2": "2s",
+    "RoundNumber": 7,
+    "Player1Points": 4,
+    "Player2Points": 4
+  },
+  {
+    "Category1": "Small straight",
+    "Category2": "1s",
+    "RoundNumber": 8,
+    "Player1Points": 0,
+    "Player2Points": 2
+  },
+  {
+    "Category1": "Four of a kind",
+    "Category2": "Two pairs",
+    "RoundNumber": 9,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "Three of a kind",
+    "RoundNumber": 10,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "1s",
+    "Category2": "Four of a kind",
+    "RoundNumber": 11,
+    "Player1Points": 1,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "3s",
+    "Category2": "Full house",
+    "RoundNumber": 12,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "Large straight",
+    "RoundNumber": 13,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "Small straight",
+    "RoundNumber": 14,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "Yatzy",
+    "RoundNumber": 15,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "Four of a kind",
+    "RoundNumber": 1,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Small straight",
+    "Category2": "Pair",
+    "RoundNumber": 2,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "Chance",
+    "RoundNumber": 3,
+    "Player1Points": 12,
+    "Player2Points": 14
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "6s",
+    "RoundNumber": 4,
+    "Player1Points": 0,
+    "Player2Points": 12
+  },
+  {
+    "Category1": "4s",
+    "Category2": "4s",
+    "RoundNumber": 5,
+    "Player1Points": 8,
+    "Player2Points": 32
+  },
+  {
+    "Category1": "5s",
+    "Category2": "Three of a kind",
+    "RoundNumber": 6,
+    "Player1Points": 10,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Three of a kind",
+    "Category2": "5s",
+    "RoundNumber": 7,
+    "Player1Points": 0,
+    "Player2Points": 5
+  },
+  {
+    "Category1": "3s",
+    "Category2": "2s",
+    "RoundNumber": 8,
+    "Player1Points": 48,
+    "Player2Points": 2
+  },
+  {
+    "Category1": "6s",
+    "Category2": "1s",
+    "RoundNumber": 9,
+    "Player1Points": 12,
+    "Player2Points": 2
+  },
+  {
+    "Category1": "2s",
+    "Category2": "3s",
+    "RoundNumber": 10,
+    "Player1Points": 4,
+    "Player2Points": 27
+  },
+  {
+    "Category1": "1s",
+    "Category2": "Large straight",
+    "RoundNumber": 11,
+    "Player1Points": 1,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Four of a kind",
+    "Category2": "Small straight",
+    "RoundNumber": 12,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "Yatzy",
+    "RoundNumber": 13,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "Full house",
+    "RoundNumber": 14,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "Two pairs",
+    "RoundNumber": 15,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "Three of a kind",
+    "RoundNumber": 1,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "Chance",
+    "RoundNumber": 2,
+    "Player1Points": 0,
+    "Player2Points": 15
+  },
+  {
+    "Category1": "2s",
+    "Category2": "4s",
+    "RoundNumber": 3,
+    "Player1Points": 6,
+    "Player2Points": 8
+  },
+  {
+    "Category1": "6s",
+    "Category2": "Small straight",
+    "RoundNumber": 4,
+    "Player1Points": 12,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "3s",
+    "RoundNumber": 5,
+    "Player1Points": 0,
+    "Player2Points": 42
+  },
+  {
+    "Category1": "5s",
+    "Category2": "Four of a kind",
+    "RoundNumber": 6,
+    "Player1Points": 5,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "1s",
+    "RoundNumber": 7,
+    "Player1Points": 0,
+    "Player2Points": 1
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "Pair",
+    "RoundNumber": 1,
+    "Player1Points": 84,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Three of a kind",
+    "Category2": "Small straight",
+    "RoundNumber": 2,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "6s",
+    "Category2": "Large straight",
+    "RoundNumber": 3,
+    "Player1Points": 6,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "3s",
+    "Category2": "Yatzy",
+    "RoundNumber": 4,
+    "Player1Points": 42,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "2s",
+    "Category2": "5s",
+    "RoundNumber": 5,
+    "Player1Points": 2,
+    "Player2Points": 10
+  },
+  {
+    "Category1": "4s",
+    "Category2": "1s",
+    "RoundNumber": 6,
+    "Player1Points": 8,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "Two pairs",
+    "RoundNumber": 7,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "Chance",
+    "RoundNumber": 1,
+    "Player1Points": 0,
+    "Player2Points": 24
+  },
+  {
+    "Category1": "6s",
+    "Category2": "4s",
+    "RoundNumber": 2,
+    "Player1Points": 12,
+    "Player2Points": 8
+  },
+  {
+    "Category1": "3s",
+    "Category2": "5s",
+    "RoundNumber": 3,
+    "Player1Points": 15,
+    "Player2Points": 10
+  },
+  {
+    "Category1": "1s",
+    "Category2": "2s",
+    "RoundNumber": 4,
+    "Player1Points": 1,
+    "Player2Points": 16
+  },
+  {
+    "Category1": "Large straight",
+    "Category2": "Three of a kind",
+    "RoundNumber": 5,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "Two pairs",
+    "RoundNumber": 6,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "Small straight",
+    "RoundNumber": 7,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Three of a kind",
+    "Category2": "Pair",
+    "RoundNumber": 1,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "5s",
+    "RoundNumber": 2,
+    "Player1Points": 96,
+    "Player2Points": 100
+  },
+  {
+    "Category1": "Four of a kind",
+    "Category2": "6s",
+    "RoundNumber": 3,
+    "Player1Points": 0,
+    "Player2Points": 12
+  },
+  {
+    "Category1": "4s",
+    "Category2": "3s",
+    "RoundNumber": 4,
+    "Player1Points": 8,
+    "Player2Points": 3
+  },
+  {
+    "Category1": "Small straight",
+    "Category2": "1s",
+    "RoundNumber": 5,
+    "Player1Points": 0,
+    "Player2Points": 2
+  },
+  {
+    "Category1": "Full house",
+    "Category2": "Large straight",
+    "RoundNumber": 6,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "2s",
+    "RoundNumber": 7,
+    "Player1Points": 0,
+    "Player2Points": 4
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "Two pairs",
+    "RoundNumber": 8,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Four of a kind",
+    "Category2": "Chance",
+    "RoundNumber": 1,
+    "Player1Points": 0,
+    "Player2Points": 17
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "Full house",
+    "RoundNumber": 2,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Three of a kind",
+    "Category2": "6s",
+    "RoundNumber": 3,
+    "Player1Points": 0,
+    "Player2Points": 54
+  },
+  {
+    "Category1": "5s",
+    "Category2": "2s",
+    "RoundNumber": 4,
+    "Player1Points": 10,
+    "Player2Points": 4
+  },
+  {
+    "Category1": "1s",
+    "Category2": "4s",
+    "RoundNumber": 5,
+    "Player1Points": 2,
+    "Player2Points": 8
+  },
+  {
+    "Category1": "3s",
+    "Category2": "Large straight",
+    "RoundNumber": 6,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Two pairs",
+    "Category2": "Small straight",
+    "RoundNumber": 7,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Yatzy",
+    "Category2": "Yatzy",
+    "RoundNumber": 8,
+    "Player1Points": 0,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "Pair",
+    "RoundNumber": 1,
+    "Player1Points": 20,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "Pair",
+    "RoundNumber": 1,
+    "Player1Points": 13,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Chance",
+    "Category2": "Three of a kind",
+    "RoundNumber": 1,
+    "Player1Points": 17,
+    "Player2Points": 0
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "6s",
+    "RoundNumber": 2,
+    "Player1Points": 0,
+    "Player2Points": 6
+  },
+  {
+    "Category1": "Pair",
+    "Category2": "1s",
+    "RoundNumber": 1,
+    "Player1Points": 0,
+    "Player2Points": 2
+  }
+]

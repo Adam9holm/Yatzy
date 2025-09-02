@@ -1,0 +1,84 @@
+/Applications/MAMP/htdocs/OOP2/YatziV1/bin/Debug/net8.0/YatziV1
+/Applications/MAMP/htdocs/OOP2/YatziV1/bin/Debug/net8.0/YatziV1.deps.json
+/Applications/MAMP/htdocs/OOP2/YatziV1/bin/Debug/net8.0/YatziV1.runtimeconfig.json
+/Applications/MAMP/htdocs/OOP2/YatziV1/bin/Debug/net8.0/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/YatziV1/bin/Debug/net8.0/YatziV1.pdb
+/Applications/MAMP/htdocs/OOP2/YatziV1/obj/Debug/net8.0/YatziV1.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/MAMP/htdocs/OOP2/YatziV1/obj/Debug/net8.0/YatziV1.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/OOP2/YatziV1/obj/Debug/net8.0/YatziV1.AssemblyInfo.cs
+/Applications/MAMP/htdocs/OOP2/YatziV1/obj/Debug/net8.0/YatziV1.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/OOP2/YatziV1/obj/Debug/net8.0/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/YatziV1/obj/Debug/net8.0/refint/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/YatziV1/obj/Debug/net8.0/YatziV1.pdb
+/Applications/MAMP/htdocs/OOP2/YatziV1/obj/Debug/net8.0/YatziV1.genruntimeconfig.cache
+/Applications/MAMP/htdocs/OOP2/YatziV1/obj/Debug/net8.0/ref/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia)/bin/Debug/net8.0/YatziV1
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia)/bin/Debug/net8.0/YatziV1.deps.json
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia)/bin/Debug/net8.0/YatziV1.runtimeconfig.json
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia)/bin/Debug/net8.0/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia)/bin/Debug/net8.0/YatziV1.pdb
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia)/obj/Debug/net8.0/YatziV1.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia)/obj/Debug/net8.0/YatziV1.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia)/obj/Debug/net8.0/YatziV1.AssemblyInfo.cs
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia)/obj/Debug/net8.0/YatziV1.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia)/obj/Debug/net8.0/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia)/obj/Debug/net8.0/refint/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia)/obj/Debug/net8.0/YatziV1.pdb
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia)/obj/Debug/net8.0/YatziV1.genruntimeconfig.cache
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia)/obj/Debug/net8.0/ref/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia 2)/bin/Debug/net8.0/YatziV1
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia 2)/bin/Debug/net8.0/YatziV1.deps.json
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia 2)/bin/Debug/net8.0/YatziV1.runtimeconfig.json
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia 2)/bin/Debug/net8.0/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia 2)/bin/Debug/net8.0/YatziV1.pdb
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia 2)/obj/Debug/net8.0/YatziV1.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia 2)/obj/Debug/net8.0/YatziV1.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia 2)/obj/Debug/net8.0/YatziV1.AssemblyInfo.cs
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia 2)/obj/Debug/net8.0/YatziV1.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia 2)/obj/Debug/net8.0/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia 2)/obj/Debug/net8.0/refint/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia 2)/obj/Debug/net8.0/YatziV1.pdb
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia 2)/obj/Debug/net8.0/YatziV1.genruntimeconfig.cache
+/Applications/MAMP/htdocs/OOP2/YatziV1 (kopia 2)/obj/Debug/net8.0/ref/YatziV1.dll
+/Users/axel/Desktop/YatziV1 (kopia 2) 2/obj/Debug/net8.0/YatziV1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axel/Desktop/YatziV1 (kopia 2) 2/obj/Debug/net8.0/YatziV1.AssemblyInfoInputs.cache
+/Users/axel/Desktop/YatziV1 (kopia 2) 2/obj/Debug/net8.0/YatziV1.AssemblyInfo.cs
+/Users/axel/Desktop/YatziV1 (kopia 2) 2/obj/Debug/net8.0/YatziV1.csproj.CoreCompileInputs.cache
+/Users/axel/Desktop/YatziV1 (kopia 2) 2/obj/Debug/net8.0/YatziV1.dll
+/Users/axel/Desktop/YatziV1 (kopia 2) 2/obj/Debug/net8.0/refint/YatziV1.dll
+/Users/axel/Desktop/YatziV1 (kopia 2) 2/obj/Debug/net8.0/YatziV1.pdb
+/Users/axel/Desktop/YatziV1 (kopia 2) 2/bin/Debug/net8.0/YatziV1
+/Users/axel/Desktop/YatziV1 (kopia 2) 2/bin/Debug/net8.0/YatziV1.deps.json
+/Users/axel/Desktop/YatziV1 (kopia 2) 2/bin/Debug/net8.0/YatziV1.runtimeconfig.json
+/Users/axel/Desktop/YatziV1 (kopia 2) 2/bin/Debug/net8.0/YatziV1.dll
+/Users/axel/Desktop/YatziV1 (kopia 2) 2/bin/Debug/net8.0/YatziV1.pdb
+/Users/axel/Desktop/YatziV1 (kopia 2) 2/obj/Debug/net8.0/YatziV1.genruntimeconfig.cache
+/Users/axel/Desktop/YatziV1 (kopia 2) 2/obj/Debug/net8.0/ref/YatziV1.dll
+/Users/axel/Desktop/Yatzy Final Komplettering/bin/Debug/net8.0/YatziV1
+/Users/axel/Desktop/Yatzy Final Komplettering/bin/Debug/net8.0/YatziV1.deps.json
+/Users/axel/Desktop/Yatzy Final Komplettering/bin/Debug/net8.0/YatziV1.runtimeconfig.json
+/Users/axel/Desktop/Yatzy Final Komplettering/bin/Debug/net8.0/YatziV1.dll
+/Users/axel/Desktop/Yatzy Final Komplettering/bin/Debug/net8.0/YatziV1.pdb
+/Users/axel/Desktop/Yatzy Final Komplettering/obj/Debug/net8.0/YatziV1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axel/Desktop/Yatzy Final Komplettering/obj/Debug/net8.0/YatziV1.AssemblyInfoInputs.cache
+/Users/axel/Desktop/Yatzy Final Komplettering/obj/Debug/net8.0/YatziV1.AssemblyInfo.cs
+/Users/axel/Desktop/Yatzy Final Komplettering/obj/Debug/net8.0/YatziV1.csproj.CoreCompileInputs.cache
+/Users/axel/Desktop/Yatzy Final Komplettering/obj/Debug/net8.0/YatziV1.dll
+/Users/axel/Desktop/Yatzy Final Komplettering/obj/Debug/net8.0/refint/YatziV1.dll
+/Users/axel/Desktop/Yatzy Final Komplettering/obj/Debug/net8.0/YatziV1.pdb
+/Users/axel/Desktop/Yatzy Final Komplettering/obj/Debug/net8.0/YatziV1.genruntimeconfig.cache
+/Users/axel/Desktop/Yatzy Final Komplettering/obj/Debug/net8.0/ref/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/bin/Debug/net8.0/YatziV1
+/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/bin/Debug/net8.0/YatziV1.deps.json
+/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/bin/Debug/net8.0/YatziV1.runtimeconfig.json
+/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/bin/Debug/net8.0/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/bin/Debug/net8.0/YatziV1.pdb
+/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/obj/Debug/net8.0/YatziV1.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/obj/Debug/net8.0/YatziV1.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/obj/Debug/net8.0/YatziV1.AssemblyInfo.cs
+/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/obj/Debug/net8.0/YatziV1.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/obj/Debug/net8.0/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/obj/Debug/net8.0/refint/YatziV1.dll
+/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/obj/Debug/net8.0/YatziV1.pdb
+/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/obj/Debug/net8.0/YatziV1.genruntimeconfig.cache
+/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/obj/Debug/net8.0/ref/YatziV1.dll
