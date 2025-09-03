@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "YatziV1/1.0.0": {
+      "YatzyGit/1.0.0": {
         "runtime": {
-          "YatziV1.dll": {}
+          "YatzyGit.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "YatziV1/1.0.0": {
+    "YatzyGit/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

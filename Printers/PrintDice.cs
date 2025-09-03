@@ -126,7 +126,6 @@ public void PrintAnimatedDice(string name, Dice diceRolls, bool[] holdDice)
         Console.SetCursorPosition(0, Console.CursorTop - 6);
     }
 
-    // Rita slutresultatet
     PrintRow(finalValues, holdDice);
     Console.WriteLine();
 }
