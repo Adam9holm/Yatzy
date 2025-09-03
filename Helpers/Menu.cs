@@ -46,7 +46,6 @@ public class Menu
         return currentIndex;
     }
 
-
   public int MenuWithDice<T>(List<T> options, string title, string name, Dice diceRolls, bool[] holdDice)
     {
         int currentIndex = 0;

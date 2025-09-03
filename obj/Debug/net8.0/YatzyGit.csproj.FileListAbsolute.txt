@@ -1,0 +1,15 @@
+/Applications/MAMP/htdocs/OOP2/YatzyGit/obj/Debug/net8.0/YatzyGit.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/MAMP/htdocs/OOP2/YatzyGit/obj/Debug/net8.0/YatzyGit.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/OOP2/YatzyGit/obj/Debug/net8.0/YatzyGit.AssemblyInfo.cs
+/Applications/MAMP/htdocs/OOP2/YatzyGit/obj/Debug/net8.0/YatzyGit.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/OOP2/YatzyGit/obj/Debug/net8.0/YatzyGit.sourcelink.json
+/Applications/MAMP/htdocs/OOP2/YatzyGit/bin/Debug/net8.0/YatzyGit
+/Applications/MAMP/htdocs/OOP2/YatzyGit/bin/Debug/net8.0/YatzyGit.deps.json
+/Applications/MAMP/htdocs/OOP2/YatzyGit/bin/Debug/net8.0/YatzyGit.runtimeconfig.json
+/Applications/MAMP/htdocs/OOP2/YatzyGit/bin/Debug/net8.0/YatzyGit.dll
+/Applications/MAMP/htdocs/OOP2/YatzyGit/bin/Debug/net8.0/YatzyGit.pdb
+/Applications/MAMP/htdocs/OOP2/YatzyGit/obj/Debug/net8.0/YatzyGit.dll
+/Applications/MAMP/htdocs/OOP2/YatzyGit/obj/Debug/net8.0/refint/YatzyGit.dll
+/Applications/MAMP/htdocs/OOP2/YatzyGit/obj/Debug/net8.0/YatzyGit.pdb
+/Applications/MAMP/htdocs/OOP2/YatzyGit/obj/Debug/net8.0/YatzyGit.genruntimeconfig.cache
+/Applications/MAMP/htdocs/OOP2/YatzyGit/obj/Debug/net8.0/ref/YatzyGit.dll

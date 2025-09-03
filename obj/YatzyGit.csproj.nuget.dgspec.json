@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Applications/MAMP/htdocs/OOP2/YatzyGit/YatziV1.csproj": {}
+    "/Applications/MAMP/htdocs/OOP2/YatzyGit/YatzyGit.csproj": {}
   },
   "projects": {
-    "/Applications/MAMP/htdocs/OOP2/YatzyGit/YatziV1.csproj": {
+    "/Applications/MAMP/htdocs/OOP2/YatzyGit/YatzyGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Applications/MAMP/htdocs/OOP2/YatzyGit/YatziV1.csproj",
-        "projectName": "YatziV1",
-        "projectPath": "/Applications/MAMP/htdocs/OOP2/YatzyGit/YatziV1.csproj",
+        "projectUniqueName": "/Applications/MAMP/htdocs/OOP2/YatzyGit/YatzyGit.csproj",
+        "projectName": "YatzyGit",
+        "projectPath": "/Applications/MAMP/htdocs/OOP2/YatzyGit/YatzyGit.csproj",
         "packagesPath": "/Users/adamholm/.nuget/packages/",
         "outputPath": "/Applications/MAMP/htdocs/OOP2/YatzyGit/obj/",
         "projectStyle": "PackageReference",

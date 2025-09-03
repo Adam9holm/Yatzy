@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/YatziV1.csproj",
-      "projectName": "YatziV1",
-      "projectPath": "/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/YatziV1.csproj",
+      "projectUniqueName": "/Applications/MAMP/htdocs/OOP2/YatzyGit/YatzyGit.csproj",
+      "projectName": "YatzyGit",
+      "projectPath": "/Applications/MAMP/htdocs/OOP2/YatzyGit/YatzyGit.csproj",
       "packagesPath": "/Users/adamholm/.nuget/packages/",
-      "outputPath": "/Applications/MAMP/htdocs/OOP2/Yatzy Final Komplettering/obj/",
+      "outputPath": "/Applications/MAMP/htdocs/OOP2/YatzyGit/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/adamholm/.nuget/NuGet/NuGet.Config"

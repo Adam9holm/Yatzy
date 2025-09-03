@@ -2,12 +2,6 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-//Krav 5 Enumerable 
-// Denna IEnumerable-implementation filtrerar tärningsvärden vid iteration.
-// Endast värden mellan 1 och 6 returneras, vilket gör att exempelvis ogiltiga värden (t.ex. 0 eller >6)
-// automatiskt utesluts i foreach-loopar. Detta visar hur IEnumerable kan användas för att påverka 
-// iterationens logik direkt, vilket gör implementationen funktionellt meningsfull – 
-// till skillnad från en standard-iteration via ToArray eller ToList.
 
 public class Dice : IEnumerable<int>
 {
@@ -52,8 +46,6 @@ public class Dice : IEnumerable<int>
                 yield return val;
         }
     }
-
-
     IEnumerator IEnumerable.GetEnumerator()
     {
         return values.GetEnumerator();

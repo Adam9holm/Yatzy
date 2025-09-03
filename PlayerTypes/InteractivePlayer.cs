@@ -13,18 +13,13 @@ public class InteractivePlayer : IPlayer
         }
      public string[] SelectDiceToHold(Dice localDice)
     {
-        // var diceIterableObj = new DiceIterable(localDice);
-        // var diceIterable = diceIterableObj.CreateIterator();
-
-        //string diceString = string.Join(", ", localDice.dice);
-        //Console.WriteLine($"Your dice: {diceString}");
         Console.WriteLine("Enter which dice values to hold (comma-separated, e.g. 6,6,2).");
         Console.WriteLine("Press Backspace if you are done rolling.");
 
         // Lyssna på första knapptryck
         ConsoleKeyInfo keyInfo = Console.ReadKey(true);
 
-        // Om användaren trycker Backspace direkt → avsluta
+        // Om användaren trycker Backspace direkt -> avsluta
         if (keyInfo.Key == ConsoleKey.Backspace)
         {
             return new string[] { "STOP" }; // markerar att spelaren vill avsluta rullningarna
